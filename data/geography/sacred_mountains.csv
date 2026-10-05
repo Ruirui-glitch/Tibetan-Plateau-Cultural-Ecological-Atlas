@@ -1,1 +1,4 @@
-
+id,name_zh,name_en,category,province,prefecture,latitude,longitude,wikidata_id,source,license,verified_on
+SM001,卡瓦格博,Kawagarbo,sacred_mountain,云南,迪庆藏族自治州,28.438333,98.683333,Q621247,Wikidata,CC0,2023-10-05
+SM002,阿尼玛卿山,Amne Machin,sacred_mountain,青海,果洛藏族自治州,34.798333,99.462500,Q277661,Wikidata,CC0,2023-10-05
+SM003,念青唐古拉峰,Mount Nyenchen Tanglha,sacred_mountain,西藏,拉萨,30.388869,90.560303,Q1109058,Wikidata,CC0,2023-10-05
